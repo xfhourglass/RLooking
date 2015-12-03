@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoginBox" >
+        <attr name="TextSize" format="dimension"/>
+        <attr name="labelTextWidth" format="dimension"/>
+        <attr name="InputEditWidth" format="dimension"/>
+        <attr name="BetweenMargin" format="dimension"/>
+    </declare-styleable>
+</resources>
